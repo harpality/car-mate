@@ -1,6 +1,6 @@
-# CarMate.info
+# CarMate 🚗
 
-CarMate.info is an application where you can keep track of your vehicle's maintenance and preventative measures. Keeping track of your vehicle's maintenance will help you extend the life of your vehicle.
+CarMate is a full-stack app where individuals can keep track of their vehicle's maintenance and preventative measures. Keeping track of your vehicle's maintenance will help you extend the life of your vehicle. Users can check which services are available on the landing page, then log in to their account to view and save their vehicle's service details. Data is obtained from CarMD and saved into a MongoDB database.
 
 ## Tech Stack
 
@@ -54,3 +54,5 @@ Once the application dependencies are installed, and the `.env` file has been co
 ```shell
 npm start
 ```
+
+🚀 Deployed at: http://www.carmate.info
