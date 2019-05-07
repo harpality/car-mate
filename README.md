@@ -4,7 +4,9 @@ CarMate is a full-stack app where individuals can keep track of their vehicle's 
 
 ## Motivation
 
-We wanted to build an app that would help a wide variety of users and came to the conclusion that car maintenance was very common. We wanted to build in app in which users can receive and keep track of their car maintenance as it's something that people easily lose track of until it's too late.
+We wanted to build an app that would help a wide variety of users and came to the conclusion that car maintenance was ubiquitous. Our idea was to create an app in which users can receive and keep track of their car maintenance as it's something that people easily lose track of until it's too late.
+
+![Screenshot](client/src/views/elements/images/screenshot.png)
 
 ## Tech Stack
 
@@ -22,7 +24,11 @@ Included in the application's dependencies are:
 - Mongoose.js for modeling the saved data
 - Passport.js using Google OAuth
 
-## Clone
+## Getting Started
+
+The following instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+## Installation
 
 ```shell
 $ git clone https://github.com/harpalassi/car-mate.git
@@ -61,9 +67,9 @@ npm start
 
 ## Team
 
-Ian Bunn
-Harpal Assi
-Rebeca Dodero
-Nic May
+- Ian Bunn
+- Harpal Assi
+- Rebeca Dodero
+- Nic May
 
 🚀 Deployed at: http://www.carmate.info
