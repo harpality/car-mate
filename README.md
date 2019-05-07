@@ -2,9 +2,13 @@
 
 CarMate is a full-stack app where individuals can keep track of their vehicle's maintenance and preventative measures. Keeping track of your vehicle's maintenance will help you extend the life of your vehicle. Users can check which services are available on the landing page, then log in to their account to view and save their vehicle's service details. Data is obtained from CarMD and saved into a MongoDB database.
 
+## Motivation
+
+We wanted to build an app that would help a wide variety of users and came to the conclusion that car maintenance was very common. We wanted to build in app in which users can receive and keep track of their car maintenance as it's something that people easily lose track of until it's too late.
+
 ## Tech Stack
 
-This application was built using a MERN stack including:
+This application was built using:
 
 - MongoDB
 - Express.js
@@ -54,5 +58,12 @@ Once the application dependencies are installed, and the `.env` file has been co
 ```shell
 npm start
 ```
+
+## Team
+
+Ian Bunn
+Harpal Assi
+Rebeca Dodero
+Nic May
 
 🚀 Deployed at: http://www.carmate.info
