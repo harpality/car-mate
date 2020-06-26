@@ -72,4 +72,4 @@ npm start
 - Rebeca Dodero
 - Nic May
 
-🚀 Deployed at: http://www.carmate.info
+🚀 Deployed at: https://carmateinfo.herokuapp.com
